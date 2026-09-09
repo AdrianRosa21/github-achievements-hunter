@@ -38,3 +38,4 @@ Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.
 Si usaste este repo para ganar algún logro, ¡añade tu nombre aquí!
 
 - [@TuUsuario](https://github.com/TuUsuario) - YOLO, Pull Shark...
+- [@AdrianRosa21](https://github.com/AdrianRosa21) - Pair Extraordinaire 👯
